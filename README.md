@@ -1,5 +1,7 @@
-CI/CD Pipeline on AWS (GitHub → CodePipeline → CodeDeploy → EC2) ________________________________________
-📌 Project Overview________________________________________
+CI/CD Pipeline on AWS (GitHub → CodePipeline → CodeDeploy → EC2)
+
+📌 Project Overview
+
 This project demonstrates how to implement a Continuous Integration and Continuous Deployment (CI/CD) pipeline using AWS services. The pipeline automatically deploys a web application to an Amazon EC2 instance whenever changes are pushed to a GitHub repository.
 The goal was to eliminate manual deployments and implement an automated, production-style workflow.
 
@@ -8,6 +10,5 @@ The goal was to eliminate manual deployments and implement an automated, product
 
 
  
-
-
- Step 1: Launch EC2 Instance________________________________________
+ Step 1: Launch EC2 Instance
+ 
