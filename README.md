@@ -113,7 +113,7 @@ The goal was to eliminate manual deployments and implement an automated, product
 <img width="733" height="405" alt="push" src="https://github.com/user-attachments/assets/d5b29d54-1b8a-4b73-bb51-4147101b72d8" />
 
 
-❌ Mistakes I Made and How I Fixed Them
+**❌ Mistakes I Made and How I Fixed Them**
 
 This section shows real troubleshooting experience.
 
