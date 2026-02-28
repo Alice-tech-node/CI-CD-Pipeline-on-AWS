@@ -1,4 +1,4 @@
-CI/CD Pipeline on AWS (GitHub → CodePipeline → CodeDeploy → EC2)
+*CI/CD Pipeline on AWS (GitHub → CodePipeline → CodeDeploy → EC2)*
 
 📌 Project Overview
 
